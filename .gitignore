@@ -5,3 +5,16 @@ data/
 .ipynb_checkpoints/Sirithi_testing-checkpoint.ipynb
 ._.DS_Store
 .DS_Store
+ukbb_coding/._icd10_diagnoses.tsv
+.gitignore
+.gitignore
+codes/._progression_surgery_codes_exclusions.xlsx
+.gitignore
+output/extracted_occurrences.parquet
+output/extracted_occurrences.tbl
+ukbb_coding/icd10_diagnoses.tsv
+ukbb_coding/ukb675501.html
+ukbb_coding/._ukb675501.html
+codes/._progression_surgery_codes_meds_selfreported.xlsx
+codes/._progression_surgery_codes_outcomes.xlsx
+output/
